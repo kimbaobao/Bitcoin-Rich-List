@@ -1,5 +1,5 @@
-console.log("Hello, World
-"Address: 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo    BALANCE: 252597.2305704 BTC
+console.log("Hello, World"
+Address: 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo    BALANCE: 252597.2305704 BTC
 Address: bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97    BALANCE: 168009.98566831 BTC
 Address: 1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ    BALANCE: 121928.55523812 BTC
 Address: 3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb    BALANCE: 116601.13655311 BTC
@@ -260,6 +260,8 @@ Address: 1NpZcfBnaJeoRT9ZqwZVRMw3SRs546VsuE    BALANCE: 6507.23333047 BTC
 Address: 356Zz26iW3tYd1xWJjVGa8CPbjC9W5EW9f    BALANCE: 6499.55975799 BTC
 Address: bc1q8usjtaxjazfulcf25lxptktlazk3hwykm08xtv    BALANCE: 6472.75384622 BTC
 Address: 3FtbgPuHncaLquML22Rm5nU6cNMy1hb7i9    BALANCE: 6424.04910967
+)
+
 /**
  *  In main file
  *  let script1 = require('./script1');
